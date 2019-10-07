@@ -150,7 +150,7 @@ When using a data encipherment certificate, you need to make sure NETWORK SERVIC
     </Principals>
   <Policies>
     <SecurityAccessPolicies>
-      <SecurityAccessPolicy GrantRights=”Read” PrincipalRef="Service1" ResourceRef="MyCert" ResourceType="Certificate"/>
+      <SecurityAccessPolicy GrantRights="Read" PrincipalRef="Service1" ResourceRef="MyCert" ResourceType="Certificate"/>
     </SecurityAccessPolicies>
   </Policies>
   <Certificates>
